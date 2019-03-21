@@ -14,3 +14,4 @@ For i = 1 To 3
 SwfWindow("Health Insurance Demo").SwfButton("Previous").Click @@ hightlight id_;_67144_;_script infofile_;_ZIP::ssf19.xml_;_
 Next
 'Test
+'Test2 
