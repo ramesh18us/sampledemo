@@ -15,3 +15,4 @@ SwfWindow("Health Insurance Demo").SwfButton("Previous").Click @@ hightlight id_
 Next
 'Test
 'Test3
+'Test 4
